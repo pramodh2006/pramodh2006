@@ -35,16 +35,9 @@ I'm a Computer Science student at Dalhousie University and a **Sexton Scholar (4
 
 ### 📊 GitHub Activity
 
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: none; padding: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pramodh2006&theme=tokyonight&hide_border=true&background=0D1117" alt="Pramodh's GitHub Streak" width="400" />
-    </td>
-    <td style="border: none; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodh2006&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=6" alt="Top Languages" width="300" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pramodh2006&theme=tokyonight&hide_border=true&background=0D1117" alt="Pramodh's GitHub Streak" />
+</div>
 
 <br>
 
