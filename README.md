@@ -36,7 +36,7 @@ I'm a Computer Science student at Dalhousie University and a **Sexton Scholar (4
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pramodh2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Pramodh's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pramodh2006&theme=tokyonight&hide_border=true&background=0D1117" alt="Pramodh's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodh2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
@@ -44,5 +44,5 @@ I'm a Computer Science student at Dalhousie University and a **Sexton Scholar (4
 
 ### 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pramodh-vankayala)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pramodh.11529@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pramodhkumarv)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=pramodh.11529@gmail.com)
