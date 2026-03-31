@@ -4,7 +4,7 @@
 
 I'm a Computer Science student at Dalhousie University and a **Sexton Scholar (4.06/4.30 GPA)** specializing in full-stack development, scalable backend systems, and AI integration. With hands-on experience building production-ready apps and data pipelines, I'm passionate about solving complex problems with clean, efficient code.
 
-🟢 **Actively seeking a Software Engineering Co-op/Internship for Summer/Fall 2026.**
+🟢 **Actively seeking a Software Co-op/Internship for Summer/Fall 2026.**
 
 <br>
 
