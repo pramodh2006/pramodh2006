@@ -2,7 +2,7 @@
 
 ### 🚀 View my interactive portfolio at: [pramodh2006.github.io/portfolio](https://pramodh2006.github.io/portfolio)
 
-I'm a Computer Science student at Dalhousie University and a **Sexton Scholar (4.06/4.30 GPA)** specializing in distributed systems, event-driven architectures, and scalable full-stack development. With hands-on experience building decoupled cloud backends, data pipelines, and AI integrations, I care about shipping software that scales, not just things that demo well.
+I'm a Computer Science student at Dalhousie University and a **Sexton Scholar (4.02/4.30 GPA)** specializing in distributed systems, event-driven architectures, and scalable full-stack development. With hands-on experience building decoupled cloud backends, data pipelines, and AI integrations, I care about shipping software that scales, not just things that demo well.
 
 🟢 **Actively seeking a Software Engineering Co-op/Internship for Fall 2026.**
 
